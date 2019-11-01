@@ -7,5 +7,11 @@ function onUse(player, item, fromPosition, target, toPosition, isHotkey)
 	-- 	player:say('tenho a montaria com ID: '..ID_MOUNT, TALKTYPE_MONSTER_SAY)
 	-- end
 
+	--player:say(player:getStorageValue(Storage.AdventurersGuild.Stone), TALKTYPE_MONSTER_SAY)
+
+	local position = player:getPosition()
+	coordenate = string.format("%d, %d, %d", position.x, position.y, position.z)
+	player:say(coordenate, TALKTYPE_SAY)
+
 	return true
 end
