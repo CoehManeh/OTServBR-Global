@@ -43409,7 +43409,7 @@
 	<item fromid="33223" toid="33224" article="an" name="unknown object"/>
 	<item fromid="33225" toid="33223" article="an" name="unknown object"/>
 	<item fromid="33233" toid="33239" article="an" name="unknown column"/>
-	<!-- <item fromid="33240" toid="33247" article="an" name="unknown ground"/> -->
+	<item fromid="33240" toid="33247" article="an" name="unknown ground"/>
 	<item id="33248" article="an" name="unknown object"/>
 	<item id="33249" article="a" name="page from a mystic book">
 		<attribute key="weight" value="200" />
@@ -49436,15 +49436,6 @@
 	<item id="40043" name="mead" />
 
 	<!-- custom -->
-	<item id="33240" article="an" name="EXP UP!" />
-	<item id="33241" article="an" name="MAGICLEVEL UP!" />
-	<item id="33242" article="an" name="AXE UP!" />
-	<item id="33243" article="an" name="SWORD UP!" />
-	<item id="33244" article="an" name="DISTANCE UP!" />
-	<item id="33245" article="an" name="SHIELD UP!" />
-	<item id="33246" article="an" name="FISHING UP!" />
-	<item id="33247" article="an" name="FIST UP!" />
-
 	<item id="26337" article="a" name="teste">
 		<attribute key="weight" value="0" />
 		<attribute key="description" value="Testar coisas." />
