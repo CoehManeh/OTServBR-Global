@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <actions>
+	<!-- custom -->
+	<action itemid="33240" script="teste/up.lua" />
+	<action itemid="33241" script="teste/up.lua" />
+	<action itemid="33242" script="teste/up.lua" />
+	<action itemid="33243" script="teste/up.lua" />
+	<action itemid="33244" script="teste/up.lua" />
+	<action itemid="33245" script="teste/up.lua" />
+	<action itemid="33246" script="teste/up.lua" />
+	<action itemid="33247" script="teste/up.lua" />
+	<action itemid="26337" script="teste/teste.lua" />
 	<!-- addons -->
 	<action fromid="18517" toid="18522" script="addons/addons.lua" />
 	<action fromid="13540" toid="13545" script="addons/afflicted_outfit.lua" />
